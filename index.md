@@ -2,5 +2,5 @@
 
 John Mercer
 
-*[Tests](./reports/tests/test/)
-*[JavaDoc](./reports/javadoc/)
+* [Tests](./reports/tests/test/)
+* [JavaDoc](./reports/javadoc/)
